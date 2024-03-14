@@ -1,13 +1,24 @@
 <h1 align="center">Hi 👋, I'm Kaveyjoe</h1>
-<h3 align="center">Smart Contract Auditor</h3>
+<h3 align="center">Smart Contract Auditor | Blockchain Enthusiast | Civil Engineer</h3>
 
 <p align="left"> <a href="https://twitter.com/kaveyjoe" target="blank"><img src="https://img.shields.io/twitter/follow/kaveyjoe?logo=twitter&style=for-the-badge" alt="kaveyjoe" /></a> </p>
+
+I'm Kaveyjoe, a Smart Contract Auditor with a passion for blockchain technology and a background in Civil Engineering studies. Additionally, I am the Founder of BountyNepal, a platform dedicated to promoting bounties in the Nepali community. 
 
 - 🔭 I’m currently working on [BountyNepal](www.Bountynepal.com)
 
 - 🌱 I’m currently learning **Solidity, Rust**
 
-- 📫 How to reach me **bs3850581@gmail.com**
+- 📫 How to reach me: **bs3850581@gmail.com**
+
+## Education & Certifications
+- Currently pursuing a Bachelor's degree in Civil Engineering 📚
+- Relevant certifications in Solidity & Smart Contract Security
+
+### Interests & Projects
+- Passionate Web3 & Blockchain Enthusiast
+- Always eager to explore new tools, libraries, and frameworks
+- Actively investigating potential applications of Blockchain in Civil Engineering 🌉
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
