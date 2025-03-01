@@ -9,7 +9,7 @@ I'm Kaveyjoe, a Smart Contract Auditor with a passion for blockchain technology 
 
 - 🌱 I’m currently learning **Solidity, Rust**
 
-- 📫 Reach me on: **kaveyjoe@gmail.com**
+- 📫 Reach me on: **Web3.kaveyjoe@gmail.com**
 
 ## Education & Certifications
 - Currently pursuing a Bachelor's degree in Civil Engineering 📚
