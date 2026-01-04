@@ -5,7 +5,7 @@
 
 I'm Kaveyjoe, a Smart Contract Auditor with a passion for blockchain technology and a background in Civil Engineering studies. Additionally, I am the Founder of BugYatri, a platform dedicated to promoting bounties in the Web community. 
 
-- 🔭 I’m currently working on [BugYatri](www.Bugyatri.com)
+- 🔭 I’m 
 
 - 🌱 I’m currently learning **Solidity, Rust**
 
